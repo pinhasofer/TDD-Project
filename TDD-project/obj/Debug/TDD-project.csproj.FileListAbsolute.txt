@@ -1,0 +1,11 @@
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\obj\Debug\TDD-project.csprojAssemblyReference.cache
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\obj\Debug\TDD_project.Form1.resources
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\obj\Debug\TDD_project.Properties.Resources.resources
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\obj\Debug\TDD-project.csproj.GenerateResource.cache
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\obj\Debug\TDD-project.csproj.CoreCompileInputs.cache
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\bin\Debug\TDD-project.exe.config
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\bin\Debug\TDD-project.exe
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\bin\Debug\TDD-project.pdb
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\obj\Debug\TDD-project.exe
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\obj\Debug\TDD-project.pdb
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-project\obj\Debug\TDD_project.Form2.resources

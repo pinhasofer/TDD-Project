@@ -1,0 +1,17 @@
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\obj\Debug\TDD-projectTests.csprojAssemblyReference.cache
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\obj\Debug\TDD-projectTests.csproj.CoreCompileInputs.cache
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\TDD-projectTests.dll
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\TDD-projectTests.pdb
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\TDD-project.exe
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\TDD-project.pdb
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\TDD-project.exe.config
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\obj\Debug\TDD-projectTests.csproj.CopyComplete
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\obj\Debug\TDD-projectTests.dll
+C:\Users\maor Pc\Documents\GitHub\TDD-Project\TDD-projectTests\obj\Debug\TDD-projectTests.pdb
